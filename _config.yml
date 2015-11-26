@@ -1,7 +1,7 @@
 name: Spirits of the Forest
 favicon: null
-layout_spectrum: 0.9074801718816161
-typography_spectrum: 0.8114912889432162
+layout_spectrum: 1
+typography_spectrum: 0.97343
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.49495364795438945
-  lightness: 0.14002897450700402
-  saturation: 0.789235930191353
-  rhythmicContrast: 0.1284160278737545
+    - '#201513'
+    - '#5c5040'
+    - '#cf6109'
+    - '#597d8f'
+    - '#c6bd49'
+  brandStrength: 0.25
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
